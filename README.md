@@ -18,3 +18,11 @@ Eliminar datos en listas dentro del DataFrame;
 Verificar tipos de datos;
 Identificar columnas numéricas;
 Transformar la columna numérica a tipo numérico.
+
+## Etapa 3
+
+En el paso 2, trabajamos en transformar los datos numéricos. Ahora podemos trabajar con valores textuales.
+
+Buscando explicar la organización de la identificación de los apartamentos, durante la creación del conjunto de datos se añadió el texto (blocoAP). Este texto informa que los nombres de los apartamentos están organizados con la letra mayúscula seguida del número del apartamento. Sin embargo, esto no aporta ninguna información a nuestros datos, por lo que resulta interesante eliminar este texto del conjunto de datos.
+
+Con esto, manipular los textos de la columna apartamento para eliminar el texto (blocoAP) del DataFrame.
